@@ -342,6 +342,8 @@ Su reactancia debería de ser de 20 kHz, así se eliminaría el voltaje de ca y 
 
 ## 4. VIDEO
 
+https://youtu.be/NxNBeBfhvQE
+
 ## 5 CONCLUSIONES
 
 * La forma de onda sinusoidal es muy importante para el cálculo de circuitos con corriente y voltaje alterna las cuales necesitarán para resolver diferentes problemas.
